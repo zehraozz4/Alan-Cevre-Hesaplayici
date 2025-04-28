@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\alanCevreHesaplayici.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\alanCevreHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\alanCevreHesaplayici.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\alanCevreHesaplayici.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\alanCevreHesaplayici.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\alanCevreHesaplayici.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\alanCevreHesaplayici.pdb
